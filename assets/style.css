@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+#exibe-programadoras{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-evenly;
+}
+
+#exibe-programadoras img {
+  margin: 5px;
+  padding: 5px;
+
+}
